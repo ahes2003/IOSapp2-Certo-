@@ -22,7 +22,7 @@
 		DF64258A280593B000EE9AFB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DF64258D280593B000EE9AFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DF64258F280593B300EE9AFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		DF642592280593B300EE9AFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DF642592280593B300EE9AFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Base; path = "../../../../Downloads/611918_console_game boy_mobile_nintendo_videogame_icon.png"; sourceTree = "<group>"; };
 		DF642594280593B300EE9AFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
